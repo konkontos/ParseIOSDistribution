@@ -1,3 +1,3 @@
 # ParseFrameworks
 
-A description of this package.
+Parse (parseplatform.org) iOS framework binary distribution via SPM (Swift 5.3+).
